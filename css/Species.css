@@ -1,0 +1,93 @@
+/* header starts */
+#nav1 {
+  padding-top: 20px;
+  padding-left: 175px;
+  padding-right: 175px;
+}
+#nav2 {
+  padding-left: 400px;
+  padding-right: 400px;
+}
+.nav-link,
+.nav-link:hover,
+.btn:hover {
+  color: white;
+  background-color: rgb(59, 58, 58);
+}
+.dropdown-menu {
+  width: 250px;
+  text-decoration: none;
+  color: white;
+}
+#p1 {
+  color: rgb(12, 11, 11);
+  font-style: bold;
+  font-size: xx-large;
+  font-weight: bold;
+}
+#p2 {
+  font-size: 30px;
+  color: black;
+  text-align: right;
+}
+/* header ends */
+.p1 {
+  padding-top: 160px;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+}
+.div1 {
+  padding: 20px 20px;
+  margin-bottom: 0%;
+  background-color: rgb(59, 58, 58);
+}
+.p2 {
+  font-size: 27px;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  padding-left: 270px;
+  padding-right: 270px;
+  padding-top: 10px;
+}
+/* footer starts */
+.p7 {
+  font-size: 40px;
+  padding-top: 20px;
+}
+.p8 {
+  font-size: large;
+}
+#img1 {
+  padding-top: 20px;
+}
+#a1 {
+  color: rgb(175, 109, 22);
+}
+.p9 {
+  font-weight: bold;
+  font-size: x-large;
+  padding-top: 15px;
+}
+.div3 {
+  background-color: rgb(59, 58, 58);
+  text-align: center;
+  color: white;
+  padding: 10px 1px;
+}
+.p10 {
+  margin-bottom: 0%;
+}
+.btn {
+  width: 130px;
+  color: white;
+  border-radius: 20px;
+  background-color: rgb(59, 58, 58);
+}
+#p_about {
+  font-weight: bold;
+  font-size: xx-large;
+  padding-top: 40px;
+}
+/* footer ends */

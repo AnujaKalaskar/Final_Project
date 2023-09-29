@@ -1,0 +1,42 @@
+/* header starts */
+#nav1{
+    padding-top: 20px;
+    padding-left: 175px;
+    padding-right: 175px;
+ }
+ #nav2{
+     padding-left: 400px;
+     padding-right: 400px;
+ }
+.nav-link, .nav-link:hover,.btn:hover{
+    color: white;
+    background-color: rgb(59, 58, 58);
+}
+.dropdown-menu{
+    width: 250px;
+    text-decoration: none;
+    color: white;
+}
+#p1{
+    font-style: bold;
+    font-size: xx-large;
+    font-weight: bold; 
+    color: rgb(12, 11, 11); 
+}
+#p2{
+    font-size: 30px;
+    color: black;
+    text-align: right;
+}
+/* header ends */
+/* footer starts */
+.div3{
+    background-color: rgb(59, 58, 58);
+    text-align: center;
+    color: white;
+    padding: 10px 1px;   
+}
+.p3{
+    margin-bottom: 0%;
+}
+/* footer ends */
